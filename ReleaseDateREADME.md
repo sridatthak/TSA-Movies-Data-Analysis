@@ -1,7 +1,3 @@
-Here’s an elaborated **README.md** for your “Release-Date-1.ipynb” notebook, covering all vital points found in the file:
-
-***
-
 # Movie Release Date Analysis Project
 
 This repository contains a Jupyter Notebook that analyzes and visualizes patterns in a comprehensive movie dataset, focusing on insights related to **release dates, genre trends, and revenue dynamics** in the cinematic industry.
